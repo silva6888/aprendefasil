@@ -1,4 +1,4 @@
 aprendefasil
 ============
 
-practicando en esta plataforma.
+Este es mi primer programa con la plataforma github
